@@ -8,7 +8,7 @@ Unterstützt Messung von **Temperatur (°C/°F)** und **relativer Luftfeuchte (%
 
 ## Installation
 
-MakeCode → **Erweiterungen** → **Erweiterung hinzufügen** → **GitHub‑URL**:
+MakeCode → **Erweiterungen** → **Erweiterung hinzufügen** → **GitHub‑URL**: https://github.com/dasbahn/pxt-aht10_V1.1.0.git
 
 ## Verdrahtung
 - AHT10 VCC → 3.3V (kein 5V!)
